@@ -150,3 +150,21 @@ O desafio foi desenvolver um simulador de corridas inspirado em Mario Kart utili
 - Conclusão
 - Projeto Base
 - Entendendo o Desafio
+
+
+####Como Executar o seu Projeto
+1. Baixe o repositório:
+
+https://github.com/gdmacedo/Nodes.js/tree/main/Simulador%20de%20Corridas%20do%20Mario%20Kart
+
+
+
+2. Navegue até o diretório/pasta do seu projeto clonado:
+
+cd nome-do-seu-repositorio
+
+
+
+3. Em seu terminal e na pasta do projeto
+
+node src/index.js
