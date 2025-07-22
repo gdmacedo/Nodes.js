@@ -1,9 +1,9 @@
-# meutudo - Mobile Developer
+# Mobile Developer : Jogos
 ## Fundamentos de Programação com Node
 ## Simulador de Corridas do Mario Kart com Node.js
 
 ### Author: Macedo, Glener Diniz - Desenvolvedor Full Stack
-### Data.: 1 de julho de 2025.
+### Data.: 22 de julho de 2025.
 
 ### Orientador:
 
